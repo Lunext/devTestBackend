@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Persistence": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONNECTION_STRING": "Host=localhost;Port=5432;Database=announcementdb;Username=postgres;Password=Euren002"
+      }
+    }
+  }
+}
